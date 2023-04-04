@@ -2,4 +2,4 @@
 
 ### Certificate of Completion
 
-![certificate](https://github.com/[kirthi2005]/[Introduction-to-Front-End-Development.git]/blob/[main]/IntroFrontEnd.pdf?raw=true)
+![IntroFrontEnd1024_1](https://user-images.githubusercontent.com/22509998/229827206-45647829-53e2-4074-a384-95074320287b.jpg)
